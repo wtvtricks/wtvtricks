@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>Tech/engineer/coder</h1> 
+<h3>C#,C++/Python/Node/Java</h3> <i class="fa-brands fa-discord"></i> <a rel="nofollow me" class="Link--primary" href="https://discord.com/users/1078727428173733938">Discord (oemat2)</a>
 
 <!--
 **wtvtricks/wtvtricks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
