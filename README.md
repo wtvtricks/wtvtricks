@@ -1,5 +1,5 @@
 <h1>Tech/engineer/coder</h1> 
-<h3>C#,C++/Python/Node/Java</h3>  <i class="fab fa-discord svelte-kkfmrh"></i> <a rel="nofollow me" class="Link--primary" href="https://discord.com/users/1078727428173733938">discord </a>
+<h3>C#,C++/Python/Node/Java</h3>  <i class="fab fa-discord svelte-kkfmrh"></i> <a rel="nofollow me" class="Link--primary" href="https://discord.com/users/1078727428173733938">Discord </a>
 
 
 
